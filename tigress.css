@@ -1,0 +1,119 @@
+
+body {
+  text-align: center;
+  border: 6px double skyblue;
+  margin: auto;
+  padding: 2px 4px;
+  list-style-image: url("n.jpg");
+  background-image: url("h.jpg");
+  background-size: contain;
+  background-attachment: fixed;
+}
+
+p {
+  font-size: 28px;
+}
+
+#head1 {
+  color: fuchsia;
+  font-style: italic;
+  font-family: 'Lucida Grande';
+  font-size: 40px;
+}
+
+.first {
+  color: cyan;
+}
+
+.second {
+  color: orange;
+}
+
+.third {
+  color: antiquewhite;
+}
+
+.fourth {
+  color: green;
+}
+
+#head2 {
+  color: Midnightblue;
+  font-style: italic;
+  font-family: 'Lucida Grande';
+}
+
+.sixth {
+  color: magenta;
+}
+
+.seventh {
+  color: purple;
+}
+
+.eighth {
+  color: grey;
+}
+
+.ninth {
+  color: lime;
+}
+
+
+#foot {
+  font-size: 50px;
+  font-family: Georgia, Arial, "Lucida Console", sans-serif;
+  align: center;
+  float: center;
+  color: orange;
+}
+
+.foot {
+  background-image: url("j.jpg");
+  background-size: contain;
+  border: 3px dotted green;
+  border-radius: 30px;
+}
+
+h1 {
+  color: #cccc33;
+  font-family: Arial;
+}
+
+span {
+ color: #6699ff;
+}
+
+#info {
+  font-size: 26px;
+  color: aqua;
+}
+
+li {
+  font-size: 27px;
+  color: silver;
+
+}
+
+button {
+  border-radius: 5px;
+  color: blue;
+  box-shadow: 3px 2px 2px gray;
+  background-color: skyblue;
+  font-size: 18px;
+}
+
+img {
+  border-radius: 180px;
+  border: 5px double skyblue;
+  width: 300px;
+  height: 230px;
+}
+
+#foot:hover {
+  color: green;
+}
+
+button:hover {
+  color: green;
+}
